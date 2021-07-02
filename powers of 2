@@ -1,0 +1,7 @@
+def powers_of_two(n):
+    num = 1
+    arr = [1]
+    for x in range(n):
+        num = num * 2 
+        arr. append(num)
+    return arr
