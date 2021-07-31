@@ -1,0 +1,4 @@
+
+def sc(f):
+    if f<2:return''
+    return 'Aa~ '*(f - 1)+'Pa!' + ' Aa!'*(f<7)
